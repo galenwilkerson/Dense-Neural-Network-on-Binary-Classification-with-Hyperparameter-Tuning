@@ -17,7 +17,7 @@ We also perform the same checks and scaling on the test (evaluation) data.
 
 We then split the data randomly into training and validation sets, setting aside 20% of the data for validation.  This allows us to prevent overfitting later.
 
-Methodology:   
+*Methodology:   
 
 Tools:  python 3.6 using jupyter, keras, sklearn, pandas, numpy
 
@@ -39,3 +39,6 @@ Finally, despite testing various regularization techniques (L1, L2 and dropout) 
 Thoughts:
 
 Given the class imbalance and more time, we could have used precision and recall on the validation data rather than accuracy and loss.  This may help to achieve a better result.
+
+
+Unfortunately, I do not have the actual results for the evaluation data, so you'll just have to use your validation scores.
