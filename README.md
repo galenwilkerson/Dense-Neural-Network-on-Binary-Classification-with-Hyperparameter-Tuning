@@ -38,4 +38,4 @@ Finally, despite testing various regularization techniques (L1, L2 and dropout) 
 
 Thoughts:
 
-Given the class imbalance and more time, we could have used precision and recall on the validation data rather than accuracy and loss.  This may help to achieve a better result.ter-Tuning
+Given the class imbalance and more time, we could have used precision and recall on the validation data rather than accuracy and loss.  This may help to achieve a better result.
