@@ -34,7 +34,7 @@ There in addition to the above loss, activation, and optimization methods, there
 
 Here, I have explored by hand the network depth and network capacity, which surprisingly revealed that a single-hidden-layer network gave better accuracy than a deeper network.  Also, a capacity of 64 in the hidden layer gave best results.
 
-Finally, despite testing various regularization techniques (L1, L2 and dropout) on both the deeper and 1-hidden-layer network, the best result seemed to be the simple 1-layer network having 64 nodes in the hidden layer, giving a validation accuracy of 0.9378 and a validation loss of 0.1905 at training 160 epochs.  (search for “~BEST MODEL~” in the provided jupyter notebook)
+Finally, despite testing various regularization techniques (L1, L2 and dropout) on both the deeper and 1-hidden-layer network, the best result seemed to be the simple 1-layer network having 64 nodes in the hidden layer, giving a validation accuracy of 0.9378 and a validation loss of 0.1905 at training 160 epochs.  (search for “\~BEST MODEL\~” in the provided jupyter notebook)
 
 Thoughts:
 
