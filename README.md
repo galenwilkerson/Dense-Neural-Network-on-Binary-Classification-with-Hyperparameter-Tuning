@@ -17,7 +17,7 @@ We also perform the same checks and scaling on the test (evaluation) data.
 
 We then split the data randomly into training and validation sets, setting aside 20% of the data for validation.  This allows us to prevent overfitting later.
 
-*Methodology:   
+Methodology:   
 
 Tools:  python 3.6 using jupyter, keras, sklearn, pandas, numpy
 
